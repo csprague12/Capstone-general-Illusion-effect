@@ -3,6 +3,8 @@ Project #4 for NYC Data Science Academy
 
 Exploring the general illusion effect on news through social media, specifically Twitter. This project includes: machine learning techniques (such as LDA, NLP, and sentiment analysis), API usage, data analytics, and advanced data visualizations. 
 
+Example of applications includes timing of project/product launch, marketing analysis, project/product creation by relatability, spread of information (with speed). 
+
 Capstone project in collaboration with: 
 
 1. Raul Vallejo - https://github.com/rvallejov
